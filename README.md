@@ -9,7 +9,7 @@ You can access calendar using localhost/full-calendar-in-laravel5.4/calendar
 
 # Step Second:-You can also include files in project
 ```
-1) Copy get_calender.blade file in resources\views\calendar and firstly create a new folder thai is calendar in resources\views\ and paste in resources\views\calendar folder
+1) Copy get_calender.blade file in resources\views\calendar and firstly create a new folder that is calendar in resources\views\ and paste in resources\views\calendar folder
 2) Copy calendar.blade file in resources\views\layouts and paste in your resources\views\layouts folder
 3) Copy full calendar folder in public folder and paste in your public folder
 ```
