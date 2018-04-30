@@ -100,7 +100,7 @@ class CalenderController extends Controller
             
         }
  
-       return view('calender.get_calender');
+       return view('calendar.get_calender');
     }
 
     /*
