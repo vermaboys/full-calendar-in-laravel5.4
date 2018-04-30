@@ -36,9 +36,11 @@ Copy CalendarAvailability and CalendarHoliday model in app folder and paste in y
 
 # Migration
 ```
-Copy two migration files in \database\migrations folder which is given below and paste in your \database\migrations folder
+Copy two migration files in database\migrations folder which is given below and paste in your database\migrations folder
 1) 2018_04_30_064750_calender_availability
 2) 2018_04_30_064830_calendar_holiday
+
+Now run php artisan migrate command on terminal
 ```
 
 
